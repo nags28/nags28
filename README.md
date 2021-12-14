@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <h1 align="center">Hi 👋, I'm Nagarjuna N 🌀 from India 🇮🇳</h1>
-<h3 align="center">The DevOps Guy who loves automating stuff</h3>
+<h3 align="center">The DevOps Dude to loves automating stuff</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/nagarjuna-n-921814105" target="blank">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 🏢 I’m currently working in [OneTrust](https://www.onetrust.com/) as **DevOps Engineer**
 
-🌱 I’m currently working on **Setting up infra using Terraform over AWS,AZURE**
+🌱 I’m currently presently on **Setting up infra using Terraform over AWS,AZURE**
 
 💬 Ask me about **DevOps Tools and Practices**
 
