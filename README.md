@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=nags28&style=flat-square&color=blue)
 
-🏢 I’m currently working in [OneTrust](https://www.onetrust.com/) as **DevOps Engineer**
+🏢 I’m presently working at [OneTrust](https://www.onetrust.com/) as **DevOps Engineer**
 
-🌱 I’m presently on **Setting up infra using Terraform over AWS,AZURE**
+🌱 I'm currently working on **Setting up infra using Terraform over AWS,AZURE**
 
 💬 Ask me about **DevOps Tools and Practices**
 
