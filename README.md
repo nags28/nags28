@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <h1 align="center">Hi 👋, I'm Nagarjuna N 🌀 from India 🇮🇳</h1>
-<h3 align="center">The DevOps Dude to loves automating stuff</h3>
+<h3 align="center">The DevOps DUDE who loves to automating stuff</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/nagarjuna-n-921814105" target="blank">
