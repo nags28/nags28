@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=nags28&style=flat-square&color=blue)
 
-🏢 I’m presently working at [OneTrust](https://www.onetrust.com/) as **DevOps Engineer**
+🏢 I’m presently working at [Manhattan Associates](https://www.manh.com/en-gb) as **DevOps Engineer**
 
 🌱 I'm currently working on **Setting up infra using Terraform over AWS,AZURE**
 
